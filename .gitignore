@@ -1,0 +1,7 @@
+.DS_Store
+.AppleDouble
+.Trashes
+._*
+*.o
+*.bin
+!Makefile
